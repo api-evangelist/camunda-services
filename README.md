@@ -64,5 +64,155 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Camunda Services is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/camunda-services_stock/
+Camunda Services provides an open platform for workflow and decision automation, offering the Camunda Platform to design, execute, and monitor business processes. It supports BPMN, DMN, and CMMN standards, delivering scalable solutions for enterprises and developers. The company offers cloud and self‑hosted options, extensive tooling, and a vibrant community, enabling organizations to orchestrate complex workflows efficiently.
+
+**Areas:** Company · Workflows · BPMN · DMN · Automation
+
+## Camunda Services on APIs.io
+
+Everything profiled for Camunda Services is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/camunda-services/](https://apis.io/providers/camunda-services/)** — or go straight to one of the APIs or properties below.
+
+### APIs (19)
+
+- [Camunda Platform API](https://apis.io/apis/camunda-services/camunda-platform-api/) — API for communicating with a Camunda 8 cluster.
+- [Camunda Services Actuator API](https://apis.io/apis/camunda-services/camunda-services-actuator-api/) — The Actuator API from Camunda Services — 1 operation(s) for actuator.
+- [Camunda Services Auth API](https://apis.io/apis/camunda-services/camunda-services-auth-api/) — The Auth API from Camunda Services — 1 operation(s) for auth.
+- [Camunda Services Camunda Services API](https://apis.io/apis/camunda-services/camunda-services-camunda-services-api-api/) — The Camunda Services API API from Camunda Services — 1 operation(s) for camunda services api.
+- [Camunda Services Cluster API](https://apis.io/apis/camunda-services/camunda-services-cluster-api/) — The Cluster API from Camunda Services — 1 operation(s) for cluster.
+- [Camunda Services Cluster Id API](https://apis.io/apis/camunda-services/camunda-services-cluster-id-api/) — The Cluster Id API from Camunda Services — 1 operation(s) for cluster id.
+- [Camunda Services Deployments API](https://apis.io/apis/camunda-services/camunda-services-deployments-api/) — The Deployments API from Camunda Services — 2 operation(s) for deployments.
+- [Camunda Services Info API](https://apis.io/apis/camunda-services/camunda-services-info-api/) — The Info API from Camunda Services — 1 operation(s) for info.
+- [Camunda Services Ingestion API](https://apis.io/apis/camunda-services/camunda-services-ingestion-api/) — The Ingestion API from Camunda Services — 1 operation(s) for ingestion.
+- [Camunda Services Members API](https://apis.io/apis/camunda-services/camunda-services-members-api/) — The Members API from Camunda Services — 1 operation(s) for members.
+- [Camunda Services Process Definitions API](https://apis.io/apis/camunda-services/camunda-services-process-definitions-api/) — The Process Definitions API from Camunda Services — 1 operation(s) for process definitions.
+- [Camunda Services Process Instances API](https://apis.io/apis/camunda-services/camunda-services-process-instances-api/) — The Process Instances API from Camunda Services — 1 operation(s) for process instances.
+- [Camunda Services Public API](https://apis.io/apis/camunda-services/camunda-services-public-api/) — The Public API from Camunda Services — 3 operation(s) for public.
+- [Camunda Services Readyz API](https://apis.io/apis/camunda-services/camunda-services-readyz-api/) — The Readyz API from Camunda Services — 1 operation(s) for readyz.
+- [Camunda Services Resources API](https://apis.io/apis/camunda-services/camunda-services-resources-api/) — The Resources API from Camunda Services — 1 operation(s) for resources.
+- [Camunda Services Setup API](https://apis.io/apis/camunda-services/camunda-services-setup-api/) — The Setup API from Camunda Services — 1 operation(s) for setup.
+- [Camunda Services Topology API](https://apis.io/apis/camunda-services/camunda-services-topology-api/) — The Topology API from Camunda Services — 1 operation(s) for topology.
+- [Camunda Services User Tasks API](https://apis.io/apis/camunda-services/camunda-services-user-tasks-api/) — The User Tasks API from Camunda Services — 2 operation(s) for user tasks.
+- [Camunda Services Chat Completions API](https://apis.io/apis/camunda-services/camunda-services-chat-completions-api/) — The Chat Completions API from Camunda Services — 1 operation(s) for chat completions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (9)
+
+The data models the API reads and writes.
+
+- [GetApiV1InfoResponse](https://apis.io/schemas/camunda-services/camunda-services-get-api-v1-info-response/)
+- [GetMembersResponse](https://apis.io/schemas/camunda-services/camunda-services-get-members-response/)
+- [PostActuatorLoggersComAzureRequest](https://apis.io/schemas/camunda-services/camunda-services-post-actuator-loggers-com-azure-request/)
+- [PostApiIngestionVariableRequest](https://apis.io/schemas/camunda-services/camunda-services-post-api-ingestion-variable-request/)
+- [PostApiPublicImportResponse](https://apis.io/schemas/camunda-services/camunda-services-post-api-public-import-response/)
+- [PostApiPublicVariablesLabelsRequest](https://apis.io/schemas/camunda-services/camunda-services-post-api-public-variables-labels-request/)
+- [PostAuthRealmsCamundaPlatformProtocolOpenidConnectTokenRespo](https://apis.io/schemas/camunda-services/camunda-services-post-auth-realms-camunda-platform-protocol-openid-connect-token-respo/)
+- [PostV1ChatCompletionsRequest](https://apis.io/schemas/camunda-services/camunda-services-post-v1-chat-completions-request/)
+- [PostV2SetupUserRequest](https://apis.io/schemas/camunda-services/camunda-services-post-v2-setup-user-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Camunda Services Context](https://apis.io/jsonld/camunda-services/camunda-services-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Camunda Services Openapi Overlay](https://apis.io/overlays/camunda-services/camunda-services-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Camunda Services API Rules](https://apis.io/rules/camunda-services/camunda-services-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Camunda Services Authentication](https://apis.io/security/camunda-services/camunda-services-authentication/)
+- [Camunda Services Domain Security](https://apis.io/security/camunda-services/camunda-services-domain-security/)
+- [Camunda Services Trust Center](https://apis.io/security/camunda-services/camunda-services-trust-center/)
+- [Camunda Services Vulnerability Disclosure](https://apis.io/security/camunda-services/camunda-services-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Camunda Services Plans Pricing](https://apis.io/plans/camunda-services/camunda-services-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://camunda.com)
+- [Documentation](https://docs.camunda.io/)
+- [Getting started](https://docs.camunda.io/docs/guides/getting-started-agentic-orchestration/)
+- [API reference](https://camunda.com/bpmn/reference/)
+- [Pricing](https://camunda.com/pricing/)
+- [Support](https://camunda.com/services/support/)
+- [Blog](https://camunda.com/blog/)
+- [Security](https://camunda.com/security/)
+- [Compliance](https://trust.camunda.com/)
+- [Terms of service](https://camunda.com/legal/terms/)
+- [Privacy policy](https://camunda.com/legal/privacy/)
+- [GitHub](https://github.com/camunda)
+
+## API Evangelist rating
+
+**Kin Score 53.7** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 69.6 |
+| Contract quality | 25.7 |
+| Contract governance | 22.0 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 64.3 |
+| Access clarity | 92.1 |
+
+**Agent readiness 19.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/camunda-services/](https://apis.io/providers/camunda-services/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Camunda Services: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/camunda-services/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
